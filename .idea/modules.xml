@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jpython/jpython.iml" filepath="$PROJECT_DIR$/jpython/jpython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpythons/jpythons.iml" filepath="$PROJECT_DIR$/jpythons/jpythons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpythons/lanshan.iml" filepath="$PROJECT_DIR$/jpythons/lanshan.iml" />
+    </modules>
+  </component>
+</project>
