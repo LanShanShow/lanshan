@@ -1,14 +1,16 @@
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.python.core.PyFunction;
-import org.python.core.PyInteger;
-import org.python.core.PyObject;
-import org.python.util.PythonInterpreter;
+//import org.python.core.PyFunction;
+//import org.python.core.PyInteger;
+//import org.python.core.PyObject;
+//import org.python.util.PythonInterpreter;
 
 public class Test {
+    /*
 	public static void main(String[] args) {
 		String file = "F:\\lanshan\\jpythons\\src\\main\\resources\\test.py";
 		System.out.println("-----------------直接执行python");//
@@ -64,5 +66,6 @@ public class Test {
 		properties.put("name", "Demo");
 		ExePython.instance.execute("F:\\lanshan\\jpythons\\src\\main\\resources\\testName.py", properties);
 		ExePython.instance.execute(scriptFile, properties);
-	}
+	}*/
 }
+
